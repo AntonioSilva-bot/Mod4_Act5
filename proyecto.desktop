@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=My Name
+Comment=My application which does this
+Icon=/home/azulmachorro/Desktop/Tarea5/O.jpg
+Exec=/home/azulmachorro/Codigo_chimp/trabajo.sh
+Type=Application
+Encoding=UTF-8
+Terminal=false
